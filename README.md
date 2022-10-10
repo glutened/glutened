@@ -1,5 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning ... CIPP exam prep.
+🌱 I’m currently learning data privacy to prepare for the CIPP exam.
+🤔 I’m looking for help with building better verifcation codes.
+💬 Ask me about the last good advertisement you saw.
+⚡ Fun fact: I once worked for the Disney CIA.
+📫 Schedule a video chat with me here: https://bit.ly/hellodav
 <!--
 **hiredavidtaylor/hiredavidtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
