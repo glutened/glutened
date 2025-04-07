@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data privacy to prepare for the CIPP exam.
-- 🤔 I’m looking for help with building better verifcation codes.
+- 🌱 I’m currently aimlessly applying for product management and user research roles.
+- 🤔 I’m looking for connections in the information architecture and content strategy space.
 - 💬 Ask me about the last good advertisement you saw.
 - ⚡ Fun fact: I once worked for the Disney CIA.
 - 📫 Schedule a video chat with me here: https://bit.ly/hellodav
